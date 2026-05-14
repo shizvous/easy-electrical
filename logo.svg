@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">Easy Electrical EE logo</title>
+  <rect width="120" height="120" fill="none" />
+  <path d="M0 0h48v120H0z" fill="#2fb7a4" />
+  <rect x="48" y="0" width="24" height="24" fill="#2fb7a4" />
+  <rect x="48" y="48" width="24" height="24" fill="#2fb7a4" />
+  <rect x="48" y="96" width="24" height="24" fill="#2fb7a4" />
+  <rect x="48" y="0" width="72" height="24" fill="#f6d819" />
+  <rect x="48" y="48" width="72" height="24" fill="#f6d819" />
+  <rect x="48" y="96" width="72" height="24" fill="#f6d819" />
+  <polygon points="48,0 72,24 48,24" fill="#2aa490" />
+  <polygon points="48,48 72,72 48,72" fill="#2aa490" />
+  <polygon points="48,96 72,120 48,120" fill="#2aa490" />
+</svg>
